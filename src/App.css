@@ -15,13 +15,13 @@ body {
 
 .title {
   font-size: 3rem;
-  margin-bottom: 30px;
+  margin-bottom: 12px;
   color: #333;
 }
 
 .start-btn {
   padding: 1.3em 3em;
-  font-size: 1.2rem;
+  font-size: 1rem;
   text-transform: uppercase;
   letter-spacing: 2.5px;
   font-weight: 500;
@@ -50,7 +50,7 @@ body {
 }
 .mode-btn{
  padding: 1.3em 3em;
-  font-size: 1.2rem;
+  font-size: 1rem;
   text-transform: uppercase;
   letter-spacing: 2.5px;
   font-weight: 500;
@@ -81,7 +81,7 @@ body {
   grid-template-columns: repeat(3, 100px);
   grid-template-rows: repeat(3, 100px);
   gap: 8px;
-  margin: 20px ;
+  margin: 15px ;
 }
 
 /* Cases */
@@ -132,7 +132,6 @@ body {
   cursor: pointer;
   transition: 0.2s;
   padding: 1.3em 3em;
-  font-size: 1.2rem;
   text-transform: uppercase;
   letter-spacing: 2.5px;
   font-weight: 500;
