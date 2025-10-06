@@ -1,2 +1,6 @@
-
+body {
+  background-image: url("public/coolbackgrounds-gradient-cucumber.png");
+  background-size: cover;
+  background-position: center;
+}
 
