@@ -1,5 +1,5 @@
 body {
-  background-image: url("%PUBLIC_URL%/coolbackgrounds-gradient-cucumber.png");
+  background-image: url("./coolbackgrounds-gradient-cucumber.png");
   background-size: cover;
   background-position: center;
 }
